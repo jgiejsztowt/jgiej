@@ -1,0 +1,13 @@
+Package: jgiej
+Version: 1.1
+Author: Justyna Giejsztowt
+Maintainer: Justyna Giejsztowt <j.giejsztowt@gmail.com>
+License: MIT + file LICENSE 
+Title: Tyna's functions
+VignetteBuilder: ?
+Imports: ? , ? , ?
+Suggests:
+    ?, ?
+Description: getting some functions going in a package for personal use
+URL: https://github.com/jgiejsztowt/jgiej
+RoxygenNote: 
